@@ -1,0 +1,15 @@
+{
+  "readableLineLength": false,
+  "showFrontmatter": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "ru",
+    "en"
+  ],
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./",
+  "strictLineBreaks": false,
+  "rightToLeft": false,
+  "promptDelete": false
+}
